@@ -38,6 +38,14 @@ npm run dev
 npm run build:standalone
 ```
 
+更新 GitHub Pages：
+
+```bash
+npm run deploy:pages
+```
+
+发布命令会重新构建网站，并只更新由构建产物组成的 `gh-pages` 分支。公开地址保持不变。
+
 ## 当前边界
 
 - 产品资料来自 `智库教育产品梳理7.14.docx`，当前统一标注为“原始材料”，不自动视为正式口径。

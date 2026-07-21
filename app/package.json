@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
+    "deploy:pages": "npm run build && node scripts/deploy-pages.mjs",
     "build:standalone": "npm run build && node scripts/build-standalone.mjs",
     "test:standalone": "node --test scripts/standalone.test.mjs",
     "preview": "vite preview --host 127.0.0.1"
