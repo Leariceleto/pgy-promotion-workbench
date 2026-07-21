@@ -1,0 +1,23 @@
+.DS_Store
+
+# Local dependencies and generated output
+app/node_modules/
+app/dist/
+app/artifacts/
+app/推广工作台.html
+
+# Local-only validation helper contains machine-specific browser paths
+app/scripts/visual-audit.mjs
+
+# GitHub Pages is published from the generated gh-pages branch on this account
+.github/workflows/pages.yml
+
+# Historical prototype and local strategy skill are not part of the public site
+99_历史原型/
+skills/
+00_项目定义/推广工作台项目交接文档.md
+
+# Logs and editor files
+*.log
+.idea/
+.vscode/

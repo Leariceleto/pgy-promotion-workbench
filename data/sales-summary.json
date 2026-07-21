@@ -1,0 +1,254 @@
+{
+  "source": "2026.1.1-7.17有赞订单总表.csv",
+  "sourceRange": {
+    "start": "2026-01-01",
+    "end": "2026-07-16"
+  },
+  "generatedAt": "2026-07-21T06:21:33.503Z",
+  "privacy": "仅保留聚合结果，不输出姓名、手机号、昵称或详细地址。",
+  "totals": {
+    "exportedOrders": 3222,
+    "paidOrders": 2903,
+    "totalPaid": 1481516.6,
+    "totalRefunded": 57002,
+    "netSales": 1424514.6,
+    "averageOrderValue": 490.7
+  },
+  "monthly": [
+    {
+      "month": "2026-01",
+      "sales": 329149,
+      "orders": 940
+    },
+    {
+      "month": "2026-02",
+      "sales": 109309.1,
+      "orders": 353
+    },
+    {
+      "month": "2026-03",
+      "sales": 382554.7,
+      "orders": 612
+    },
+    {
+      "month": "2026-04",
+      "sales": 146715.5,
+      "orders": 300
+    },
+    {
+      "month": "2026-05",
+      "sales": 283589.3,
+      "orders": 307
+    },
+    {
+      "month": "2026-06",
+      "sales": 130867,
+      "orders": 243
+    },
+    {
+      "month": "2026-07",
+      "sales": 42330,
+      "orders": 148
+    }
+  ],
+  "statusCounts": [
+    {
+      "name": "交易完成",
+      "value": 2740
+    },
+    {
+      "name": "交易关闭",
+      "value": 422
+    },
+    {
+      "name": "已发货",
+      "value": 54
+    },
+    {
+      "name": "待发货",
+      "value": 5
+    },
+    {
+      "name": "待付款",
+      "value": 1
+    }
+  ],
+  "topProducts": [
+    {
+      "name": "学校治理“品控”手册",
+      "units": 327,
+      "singleProductOrders": 242,
+      "singleProductRevenue": 60060
+    },
+    {
+      "name": "骨干教师卓越发展手册",
+      "units": 273,
+      "singleProductOrders": 201,
+      "singleProductRevenue": 32886
+    },
+    {
+      "name": "《重塑教学让所有学生都能成功》",
+      "units": 269,
+      "singleProductOrders": 177,
+      "singleProductRevenue": 17301
+    },
+    {
+      "name": "2026教育周历|给教育人的53周“电影课”",
+      "units": 255,
+      "singleProductOrders": 92,
+      "singleProductRevenue": 18384
+    },
+    {
+      "name": "2025年新校长第12期：2025年度风向标学校TOP100",
+      "units": 235,
+      "singleProductOrders": 43,
+      "singleProductRevenue": 9135
+    },
+    {
+      "name": "2025年度十一本书",
+      "units": 231,
+      "singleProductOrders": 64,
+      "singleProductRevenue": 39387.6
+    },
+    {
+      "name": "2026年《新校长》/《星教师》全年订阅",
+      "units": 215,
+      "singleProductOrders": 113,
+      "singleProductRevenue": 56700
+    },
+    {
+      "name": "2026年新校长第1期：K-12贯通培养",
+      "units": 169,
+      "singleProductOrders": 118,
+      "singleProductRevenue": 8955
+    },
+    {
+      "name": "做看得见的德育",
+      "units": 146,
+      "singleProductOrders": 69,
+      "singleProductRevenue": 3944
+    },
+    {
+      "name": "2026年新校长第3期：AI学伴与自适应学习",
+      "units": 139,
+      "singleProductOrders": 61,
+      "singleProductRevenue": 6345
+    },
+    {
+      "name": "2026年星教师第1期：新生代班主任-100个修炼",
+      "units": 133,
+      "singleProductOrders": 80,
+      "singleProductRevenue": 5175
+    },
+    {
+      "name": "星教师笔记 依法执教和健康管理Tips100+ 教师手账",
+      "units": 125,
+      "singleProductOrders": 20,
+      "singleProductRevenue": 3487
+    },
+    {
+      "name": "《学校全角色地图》",
+      "units": 106,
+      "singleProductOrders": 31,
+      "singleProductRevenue": 9412
+    },
+    {
+      "name": "2026年星教师第2期：新生代班主任-水一样的班级组织",
+      "units": 103,
+      "singleProductOrders": 70,
+      "singleProductRevenue": 4050
+    },
+    {
+      "name": "2026年《星教师》全年刊订阅",
+      "units": 96,
+      "singleProductOrders": 70,
+      "singleProductRevenue": 21060
+    },
+    {
+      "name": "班主任学年工作指南",
+      "units": 78,
+      "singleProductOrders": 48,
+      "singleProductRevenue": 7252
+    },
+    {
+      "name": "创造美的学习——2026 未来学校教育美学论坛",
+      "units": 75,
+      "singleProductOrders": 48,
+      "singleProductRevenue": 139120
+    },
+    {
+      "name": "经典阅读玩书课程",
+      "units": 70,
+      "singleProductOrders": 29,
+      "singleProductRevenue": 8362
+    }
+  ],
+  "topProvinces": [
+    {
+      "name": "未知",
+      "sales": 633760.2
+    },
+    {
+      "name": "广东省",
+      "sales": 124895
+    },
+    {
+      "name": "北京市",
+      "sales": 72777.9
+    },
+    {
+      "name": "四川省",
+      "sales": 67317.1
+    },
+    {
+      "name": "浙江省",
+      "sales": 57918
+    },
+    {
+      "name": "江苏省",
+      "sales": 56203.6
+    },
+    {
+      "name": "山东省",
+      "sales": 42772.9
+    },
+    {
+      "name": "河南省",
+      "sales": 27802.8
+    },
+    {
+      "name": "湖北省",
+      "sales": 27670.7
+    },
+    {
+      "name": "上海市",
+      "sales": 27454.8
+    }
+  ],
+  "orderSources": [
+    {
+      "name": "微信(直接购买)",
+      "sales": 1359963
+    },
+    {
+      "name": "系统浏览器(直接购买)",
+      "sales": 26451
+    },
+    {
+      "name": "支付宝(直接购买)",
+      "sales": 18908
+    },
+    {
+      "name": "其他(商家小程序)",
+      "sales": 17939.6
+    },
+    {
+      "name": "腾讯QQ(直接购买)",
+      "sales": 1253
+    }
+  ],
+  "metricNotes": {
+    "productUnits": "按订单商品明细中的件数统计，包含组合订单。",
+    "singleProductRevenue": "只统计订单中仅含一个商品时的实付净额，避免组合订单收入被重复归因。"
+  }
+}

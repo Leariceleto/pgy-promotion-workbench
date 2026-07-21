@@ -1,0 +1,1340 @@
+{
+  "source": "智库教育产品梳理7.14.docx",
+  "sourceDate": "2026-07-14",
+  "generatedAt": "2026-07-21",
+  "informationStatus": "原始材料",
+  "note": "由原始产品梳理文档按标题层级提取。名称和字段需要业务负责人复核后才能转为已确认事实。",
+  "categories": [
+    "会议系列",
+    "学校服务",
+    "手册系列",
+    "教育地图系列",
+    "文创系列",
+    "智库出版",
+    "智库自主研发课程系列",
+    "智库轻量化阅读书架",
+    "智能产品",
+    "笔记本系列",
+    "系列会议U盘",
+    "线上系列微课"
+  ],
+  "objects": [
+    {
+      "id": "product-01",
+      "name": "AI学伴",
+      "category": "智能产品",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "一款助力学生自主探究、自适应学习的智能学习助手，由多个独立又协作的智能体组成，能在探究过程的每个环节为学生提供精准辅助，还可在备课与教研过程中为教师提供辅助，同时具备后台管理系统，帮学校沉淀可迭代的素养教育资产。",
+      "audience": "学生、教师、学校管理者",
+      "value": "为学生提供个性化任务引导、提升自主性、支持学习全流程；为教师提供教研辅助；为学校提供教学管理支持，且筑牢安全底线，学生放心用，学校轻松管。",
+      "promotionLinks": [
+        {
+          "title": "蒲公英 AI 学伴：重构 AI + 教育逻辑，给每个孩子专属 “思维脚手架”",
+          "url": "https://mp.weixin.qq.com/s/IZaw4Kt5gctXFhGzuoJvhQ"
+        },
+        {
+          "title": "高考风向标突变！从“背答案”到“会思考”，孩子拿什么应考？",
+          "url": "https://mp.weixin.qq.com/s/Mo1F6Ot5d64h8Wh1i7byDw"
+        },
+        {
+          "title": "教育部1号文件划重点：考“解决问题”而非“记知识”，学校准备好了吗？",
+          "url": "https://mp.weixin.qq.com/s/6BP0Vfgiu8vjbWV-slf8GQ"
+        },
+        {
+          "title": "2026世界数字教育大会释放信号：AI开始真正进入课堂",
+          "url": "https://mp.weixin.qq.com/s/NngOgdHF9r7JxI8kZE3_Zw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 5
+    },
+    {
+      "id": "product-02",
+      "name": "《AI时代，教师的下一站：2025新型教师专业成长智库报告》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "由蒲公英教育智库研制发布。报告聚焦人工智能与教育的深度融合，以“新型教师专业成长”的方向、目标、路径为核心内容。",
+      "audience": "教师、学校管理者",
+      "value": "报告既梳理变革脉络，也提出具有操作性的认知实践工具，为学校思考应对未来教育挑战提供参考，帮助教师和教育管理者在AI变革中稳步前行，重塑新的教育信念与专业成长。",
+      "promotionLinks": [
+        {
+          "title": "教育部发布《生成式AI应用指引》，教师如何练就“善用AI”的真本事？",
+          "url": "https://mp.weixin.qq.com/s/aTKjAmbiXnIyNPOacwKUFw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 23
+    },
+    {
+      "id": "product-03",
+      "name": "2026《新校长》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "《新校长》创刊于2014年（前身为《校长》），每月一本，全年12本，年度深度跟进学校20余所，年度采纳学校案例500余所，每本拥有独立书号，更具收藏意义，更有常销价值。",
+      "audience": "中小学校长、中层干部、教科研工作者、教育行政管理者",
+      "value": "智能文明时代新质学校风向标报告，致力于为大变局时代的中小学梳理变革蓝图——每期聚焦走向“新质学校”的一个关键课题，多维提供微创新样本和变革工具箱；每年会评选出基础教育年度风向标学校TOP100，生成100个学校创新模型；从应对变化到主动引领，构建新时代校长领导力实践框架。",
+      "promotionLinks": [
+        {
+          "title": "学校生态进化管理团队行动手册，2026《新校长》征订中",
+          "url": "https://mp.weixin.qq.com/s/Wt6t89XxzXXpjffoAgse8Q"
+        },
+        {
+          "title": "K-12学校生态进化行动手册丨2026《新校长》征订中",
+          "url": "https://mp.weixin.qq.com/s/kAVJvwtvRdPFRv6lvzlMPw"
+        },
+        {
+          "title": "智能文明时代新质学校风向标报告｜《新校长》2026征订开启",
+          "url": "https://mp.weixin.qq.com/s/KvrvlQqNEHoFy2zWLgSV0A"
+        },
+        {
+          "title": "校长的书柜里藏着学校的未来，2026《新校长》全年订阅正在进行",
+          "url": "https://mp.weixin.qq.com/s/mRkFKPIB1R0vQdqyf1RZcQ"
+        },
+        {
+          "title": "学校进化行动手册：让走向新质学校的每一步都有导航、有方法",
+          "url": "https://mp.weixin.qq.com/s/EX14fHsvrTLuLMi_FlBqkA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 33
+    },
+    {
+      "id": "product-04",
+      "name": "新校长1期：K-12贯通培养",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "随着“贯通教育”被重视的程度和提及频率不断提高，对它的误解也逐渐增多。 有人把贯通教育等同于学段之间的行政打通——小学、初中、高中设置在同一校区，或由同一管理班子统一管理；有人将贯通教育理解为内容提前或进度拉齐，在小学提前教授初中的内容，在初中压缩节奏以对接高中要求；还有人认为贯通教育主要是升学路径的连续设计，例如围绕中考、高考进行长期规划，把贯通简单等同为“更早、更系统的备考”。",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "卷首语：多地布局贯通培养改革，对学校的最大考验是什么？",
+          "url": "https://mp.weixin.qq.com/s/sDHavpagOVBv0pwGF48UTg"
+        },
+        {
+          "title": "硬广：多地推进贯通培养改革，5大破局点是关键",
+          "url": "https://mp.weixin.qq.com/s/zpeyOBagTFIg7nMQe-nVMA"
+        },
+        {
+          "title": "封面缩写：一贯制学校全学科、全学段贯通课程，如何科学设计？| 头条",
+          "url": "https://mp.weixin.qq.com/s/k9SJOx6I6Fh2QOKI0wI5fg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 52
+    },
+    {
+      "id": "product-05",
+      "name": "新校长2期：新质学校 | 水知道答案——第十二届中国教育创新年会",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "我们站在教育重新审视自身意义的历史时刻。 身后，是工业化培养体系的黄昏，它整齐、高效，却不再有力化解时代的困局；前方，是AI激荡、意义重构的深水区，新技术新世代的洪流奔向新的河道，也吞没了许多旧的坐标。",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 81
+    },
+    {
+      "id": "product-06",
+      "name": "新校长3期：AI学伴与自适应学习",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "我们这一代人，算得上是颇为幸运的一代。 人类历史上四次改变文明进程的技术革命——从蒸汽革命驱动机器的轰鸣，到电力革命点亮城市的灯火，从信息革命把全球编织成网，到今日智能革命呼啸而来，我们至少亲身经历了后两次。许多人还记得，学校如何一步步从粉笔黑板走向电脑与 iPad，从纸质作业走向数智平台。诸多故事，历历在目。",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "卷首语：怎样的学习变革，才配得上呼啸而来的新时代",
+          "url": "https://mp.weixin.qq.com/s/yForCTEpXypJq44w18M7aQ"
+        },
+        {
+          "title": "硬广：“2小时学习模式”最全解析：AI+自适应学习，这里有一套完整行动指南",
+          "url": "https://mp.weixin.qq.com/s/HJQfO9d1QpNGTDU_lIrZOw"
+        },
+        {
+          "title": "封面缩写：每天只学2小时，考试成绩遥遥领先，这所学校究竟做到了什么？｜头条",
+          "url": "https://mp.weixin.qq.com/s/-gBAxf68K6wrsLSMX8Cw_Q"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 103
+    },
+    {
+      "id": "product-07",
+      "name": "新校长4期：民办学校生态学",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "当我们将学校视为一个“组织”，思考和行动的锚点往往是：组织结构是否清晰，管理流程是否高效，各项制度是否有序。 但如果换一个视角，把学校看作一个“生态系统”，我们对它的理解就会发生进一步升级。",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "卷首语：民办学校面临多重挑战，关键在于提升“生态竞争力”",
+          "url": "https://mp.weixin.qq.com/s/Bj8roaNYC9D5n1MhtrZqbA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 143
+    },
+    {
+      "id": "product-08",
+      "name": "新校长5期：AI时代，教师的下一站",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "如果回到五年前，问一位一线教师：“你理想中的工作状态是什么样的？”我们大概率会听到这样的回答：“要是能有更多时间关注每一个学生就好了”“备课时能瞬间找到最合适的教学资源就好了”“批改作业不用熬夜就好了”。这些愿望背后，是一个共同的声音：老师们渴望从繁琐、重复、低效的事务中获得解放，把精力真正投入到有创造性的工作中去。 今天，AI来了，比所有人预想的都要快，并在以前所未有的速度进入教育的每一个环节。有人兴奋，有人焦虑，有人观望，有人抗拒。但无论态度如何，一个基本共识正在形成：AI不会取代教师，但会用AI的教师将会取代不会用AI的教师。",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 175
+    },
+    {
+      "id": "product-09",
+      "name": "新校长6期：打造未来学习社区",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "空间是人的存在之镜。 物理空间的形态、质感与光影，始终与人类的情感、记忆和 想象力交织。",
+      "audience": "",
+      "value": "第三，它要支持动手创造与作品生成。以创为中心的学习，关键不在于让学生完成一份漂亮的作业，而在于让他们经历提出设想、查找资料、设计方案、制作原型、测试反馈、修改迭代、公开展示的完整过程。学习的成果应当可见、可交流、可被评价，也可继续生长。 第四，它要支持人与人的深度连接。学习社区最重要的价值，是让学习者在共同创造中学会倾听、表达、协商、分工、承担和互相支持。一个孩子在社区中获得的，不只是知识点，还有面对复杂世界时与他人合作的能力。 第五，它要支持个性化路径。未来学习社区不应要求所有人用同样速度、同样方式抵达同一个答案。它应当允许学生从不同兴趣进入主题，在不同角色中贡献价值，并通过导师、同伴、资源平台和学习档案，形成更具个人意义的发展路径。",
+      "promotionLinks": [
+        {
+          "title": "2026中小学课题研究七大重点方向（附研究工具包）",
+          "url": "https://mp.weixin.qq.com/s/cq41BvMcO6eU4I0uJxgoHw"
+        },
+        {
+          "title": "开学忙不停？9个教研工具解决你备课难题",
+          "url": "https://mp.weixin.qq.com/s/0tHr3WQuoHa1kODzGFnAtQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 213
+    },
+    {
+      "id": "product-10",
+      "name": "2026《星教师》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "《星教师》2016年创刊，双月一本，全年6本。定位发现、观察、研究全球教师创新实践案例，用科学和理性重新谱写“未来教师”素养图谱，助力每位教师走向卓越。",
+      "audience": "一线教师，班主任、关注教师群体的教育认识、学校管理者",
+      "value": "重新定义未来教师，聚焦教师在日常教育教学过程中的微观问题，发现、观察、 研究全球教师创新实践案例，通过丰富的案例、实操的方法、可行的策略、多样的资源及高效的工具，为一线老师提供更全面系统、科学有效的教育支架。",
+      "promotionLinks": [
+        {
+          "title": "给教师全年陪伴，让你在教学里从容，在成长里坚定 |《星教师》征订",
+          "url": "https://mp.weixin.qq.com/s/rmzH-BdANlEZjrBu8gRj4Q"
+        },
+        {
+          "title": "重新定义未来教师，致敬向光而行的你 | 《星教师》2026全年征订",
+          "url": "https://mp.weixin.qq.com/s/_oDts74uYKOLnWFO_HvVAA"
+        },
+        {
+          "title": "从合格到优秀，教师必备的专业“工具箱”",
+          "url": "https://mp.weixin.qq.com/s/eSuQrNf5AXYtt2QgHZ9ghA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 244
+    },
+    {
+      "id": "product-11",
+      "name": "星教师1期：新生代班主任——100个修炼",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "每束从新时代打来的曙光，总是让一切呈现比想象更丰富的色彩。 育人也是如此。当教育遇见AI，家校社遭遇时代巨变，班级不再是过去的班级，班主任不再是过去的班主任。一班一世界，一生一物种，需要我们直面更复杂的生态，修炼更高超的领导力。 当校园智能自动记录每一位学生的行为，识别每一刻的情绪，给出个性化的方案……被技术赋能的教育正在解构班级管理的原有体系，并必然重新定义班级的价值、功能与目标，这一切，难免让传统轨道上的班主任，陷入新的能力危机和角色迷茫。 然而，机器从来未曾取代过人。过去如此，未来亦然。当“管理”被智能系统分解为可计算的代码，\"育人领导力\"便更凸显为班主任不可替代的职业价值——最好的教育，永远是为师者以生命影响生命的“原创艺术”；真正不可替代的，永远是用心灵推动心灵的多次唤醒，不断点燃；最最需要看见的，是我们以什么样的方式支持学生，以什么样的温度建立关系，以什么样的态度直面AI...... 可以预见，在加速重建生态，并终将走向成熟的智能文明时代，新的“育人领导力”将成为班主任直面新时代教育的关键素养。 首先，育人的本质不是知识传递，而是唤醒生命对进步与未知的渴望。为此，我们要重塑行为重心—— 看见学生：看见每个孩子的独",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "卷首语：“新生代班主任”回归育人本质的100个修炼",
+          "url": "https://mp.weixin.qq.com/s/6EoHX3SfZWJfHkZfoizMNQ"
+        },
+        {
+          "title": "硬广：五大领导力、100个修炼：新生代班主任的育人进阶指南",
+          "url": "https://mp.weixin.qq.com/s/Gqj55A6USY1RSfHZoBCxJQ"
+        },
+        {
+          "title": "100个积极动作，重新带活一个班",
+          "url": "https://mp.weixin.qq.com/s/yZ2wlJWdew5Od5nYpDxIJg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 259
+    },
+    {
+      "id": "product-12",
+      "name": "星教师2期：新生代班主任——水一样的班级组织",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "子产品或具体服务",
+      "description": "我们正面对的，是“数智一代”学生。他们生于屏幕之前，长于信息洪流中，需求越来越多元；他们从不缺少知识的投喂，却比任何时候都更需要被点燃的内驱力——他们渴望的不是指令与管控，而是意义感、自主权和真实的联结。 AI时代，每个学生都有专属的学习地图，小班化教学、个性化教育照进现实，班级组织若仍只是一个秩序井然的“管理方格”，那么它注定无法承载起生命生长的全部可能。",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "卷首语：杂志｜一套让每个学生都想成为“班级合伙人”的赋能机制",
+          "url": "https://mp.weixin.qq.com/s/xQx3w0hAHv2MCYKgxjlbiA"
+        },
+        {
+          "title": "硬广：一套让班级从“管理维稳”走向“动力系统”的全场景行动指南",
+          "url": "https://mp.weixin.qq.com/s/nbwsta4y-IkwNnSLm7HmDw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1780988695&enterid=1780988695"
+        },
+        {
+          "title": "超短学期，如何保证教学质量？3个抓手打造高效课堂",
+          "url": "https://mp.weixin.qq.com/s/CjdjiVgoNRTlTsytmcU9Hw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 280
+    },
+    {
+      "id": "product-13",
+      "name": "《在学校，我们怎样做中层》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "本书从学校中层的通识能力和角色认知出发，用案例的方式助力每一位学校中层解决真实问题，切实提升中层领导力，强化学校“腰部”力量，构建良好的学校管理生态。",
+      "audience": "德育主任、后勤主任、年级主任、教研主任、课程管理",
+      "value": "提升中层领导力，强化学校“腰部”力量，构建良好的学校管理生态",
+      "promotionLinks": [
+        {
+          "title": "优秀学校中层如何参透管理智慧、实现自我成长？",
+          "url": "https://mp.weixin.qq.com/s/gTc63sNVOonOJHfz_x68Kg"
+        },
+        {
+          "title": "这本学校中层的方法论读本，为你解决管理的常难题",
+          "url": "https://mp.weixin.qq.com/s/9CaD5stGj528qscajVb_gw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 302
+    },
+    {
+      "id": "product-14",
+      "name": "《在学校，我们怎样做教科研》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "本书紧密结合新课标下教研组和备课组的实际工作情况，为教师团队提供一套全面的思维框架和实用方法论，助力新学期进一步优化教学行为、改进教学方法、解决教学难题，从而提升教学质量。",
+      "audience": "教师、教研组长/主任、分管教学的校长、学校管理者",
+      "value": "一份助力教研真正赋能教师成长与学校提质的全景地图",
+      "promotionLinks": [
+        {
+          "title": "专为教研组长、备课组长设计的实用工作指南",
+          "url": "https://mp.weixin.qq.com/s/MSCuNo-Bsm2o11ibhK1PYw"
+        },
+        {
+          "title": "做教科研，为什么这样一本书无法绕过？",
+          "url": "https://mp.weixin.qq.com/s/UuPDryw4JsR2OHtqPQ0fqw"
+        },
+        {
+          "title": "一所学校教研团队人才辈出，只缺一张“全景行动地图”",
+          "url": "https://mp.weixin.qq.com/s/xFYSPW4MNXgGdVnElNtaAg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 313
+    },
+    {
+      "id": "product-15",
+      "name": "《深度目击：十一学校为什么》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "本书深度透视北京十一学校及其盟校十多年改革的底层逻辑，以“全角色讲述”的独特方式，还原改革中的真实挑战、关键抉择与教师成长，提炼出可复制、可迁移的核心经验，是解码标杆校成功基因的“实战解码器”。",
+      "audience": "校长、学校管理者、教育从业者",
+      "value": "透视标杆学校改革的底层逻辑与可迁移的关键经验",
+      "promotionLinks": [
+        {
+          "title": "一所学校要实现“从教到学”，需为教师准备以下5个工具包",
+          "url": "https://mp.weixin.qq.com/s/j7c19VCclFzRLBsWT-zA1Q"
+        },
+        {
+          "title": "十一学校成功转型，多亏用对11个变革工具（附使用场景）",
+          "url": "https://mp.weixin.qq.com/s/nl-cr0Hc_LyRjJ6_1czMVA"
+        },
+        {
+          "title": "学校要实现从教到学，学科主任须借力这套“5维工具”",
+          "url": "https://mp.weixin.qq.com/s/c94YPTa4wHfcVQC91R-hRA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 326
+    },
+    {
+      "id": "product-16",
+      "name": "《破晓——中国学校十年进化史》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "本书入选2023年度上海教育出版社二十大好书、《中华读书报》2024年度“人文社科新书50种”。盘点、记录这个10年的思考与行动图景，赋能、助力下个10年更高水平育人模式的探索。集合了100+位教育人来自教育现场的思想火花、实践芯片。",
+      "audience": "校长、学校管理者、教育从业者",
+      "value": "中国教育创新年会十年演讲集萃",
+      "promotionLinks": [
+        {
+          "title": "解密中国学校十年进化——《破晓》入选“影响教师的100本书”前十",
+          "url": "https://mp.weixin.qq.com/s/mGM1QDDy0rJGDp_jyTEBzQ"
+        },
+        {
+          "title": "经典演讲录：从基础教育的创变看未来",
+          "url": "https://mp.weixin.qq.com/s/4RQHP6IdyyI6Hd5C9qykuQ"
+        },
+        {
+          "title": "4个焦点问题10个解决方案，一窥过去十年中国学校治理智慧",
+          "url": "https://mp.weixin.qq.com/s/46Lcaj4PqMn9wh7fQh5iaQ"
+        },
+        {
+          "title": "《破晓》首次讲述中国学校十年进化史，一出版便收获2奖项",
+          "url": "https://mp.weixin.qq.com/s/KO7ZnGBVn3XgdnMPVs5imQ"
+        },
+        {
+          "title": "从宏观到微观：两本书演绎近十年基础教育创变史",
+          "url": "https://mp.weixin.qq.com/s/MyOHxhHMsv4WjCT_j50tNw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 339
+    },
+    {
+      "id": "product-17",
+      "name": "《中国新校长十年100人》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "蒲公英教育智库基于纯粹教育价值判断的用心之作，描绘新时代学校教育不断迭代、蜕变和成熟的行动蓝图：7个人格底色成就卓越校长、8大行动原则孵化卓越学校、100位一线教育人代表的心声撷英，书写了10余年来中国基础教育人勇于创新创造的精神史诗。",
+      "audience": "校长、学校管理者、教育从业者",
+      "value": "《新校长》封面报道十年集锦",
+      "promotionLinks": [
+        {
+          "title": "中国新校长十年100人：基础教育勇于创新创造的精神史诗",
+          "url": "https://mp.weixin.qq.com/s/mFXuHvfdzo27lQG_bUmXKw"
+        },
+        {
+          "title": "与100位探路者同行，迈向未来的高质量教育体系",
+          "url": "https://mp.weixin.qq.com/s/e89I0LW9s7hdGeKAp2k-Vg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 356
+    },
+    {
+      "id": "product-18",
+      "name": "《成熟教师必备的学生心理策略》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "本书直击中小学教育一线的心理暗流，提供从识别学生情绪信号到构建支持性课堂环境的45篇干货文章，不仅能助你看清学生行为背后的深层心理机制，更能将心理健康教育无缝编织进日常教学。",
+      "audience": "班主任、教师",
+      "value": "一份全员心育行动指南，一本教师心理赋能手册",
+      "promotionLinks": [
+        {
+          "title": "教育部推进实施“全员育心”，教师必备的学生心理策略，请收藏",
+          "url": "https://mp.weixin.qq.com/s/dS4LYf4DtRBhphyvMkIxpg"
+        },
+        {
+          "title": "心理健康新共识正在形成，老师们需要一份用得上的心理策略",
+          "url": "https://mp.weixin.qq.com/s/CVeVu4dedP06x-5PcO9tSQ"
+        },
+        {
+          "title": "一线育人好书推荐：《成熟教师必备的学生心理策略》",
+          "url": "https://mp.weixin.qq.com/s/-p0lDJ4Lfw8f7mz8CTTiNA"
+        },
+        {
+          "title": "全员心育行动，需要一份易学好用的系统指南",
+          "url": "https://mp.weixin.qq.com/s/rvHJKUpxfVmY-RbCKipkNg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 367
+    },
+    {
+      "id": "product-19",
+      "name": "《重塑教学让所有学生都能成功》",
+      "category": "智库出版",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "《重塑教学让所有学生都能成功》（英文版原书名：Meet Every Learner’s Needs：Redesigning Instruction So All Students Can Succeed）基于教育专家罗伯特·巴内特与“现代课堂项目”（Modern Classroom Project）的实践经验，为K12教育工作者提供了一套创新教学框架。本书通过课堂测试策略激发真实学习，帮助教师将传统教室转化为动态学习空间，兼顾差异化挑战与个性化支持。",
+      "audience": "教师、教研组长、分管教学的校长、学校管理者",
+      "value": "智能时代课堂转型指南：一套K12教育工作者的创新教学框架",
+      "promotionLinks": [
+        {
+          "title": "刘可钦：好读、好用、好落地的教学指南，助力教师重塑课堂",
+          "url": "https://mp.weixin.qq.com/s/Sc9Tmn7yOfTApT9_bO8zjw"
+        },
+        {
+          "title": "课堂时间有限，学生进度不一？这套教学法实现全员自主前进",
+          "url": "https://mp.weixin.qq.com/s/fBFHJP3VCz4NaS6_t36_Jw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 382
+    },
+    {
+      "id": "product-20",
+      "name": "学校治理品控手册",
+      "category": "手册系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "一套让学校治理更清晰、稳健、可持续的系统化工具，覆盖学校运行的十大核心环节 —— 教师成长、空间升级、科研成果转化、文化生态培育等，提炼关键要点与可操作路径。",
+      "audience": "学校管理层",
+      "value": "1、让校长“看得清”：每一本手册都梳理了某个领域的底层逻辑、关键标准、常见误区与风险点等内容。校长不再凭经验判断，团队不再各说各话——上下协同，治理方向更清晰。 2、让团队“做得到”：手册中附有流程图、分工表、检查清单、实施步骤和注意事项等不同内容模块。当天阅读，当天部署——执行更顺畅，沟通成本更低。 3、让工作从“人治”走向“体系”",
+      "promotionLinks": [
+        {
+          "title": "用十本手册，拆解学校治理最关键的十个环节",
+          "url": "http://mp.weixin.qq.com/s?__biz=MjM5NjAwODI2OQ==&mid=2653899854&idx=3&sn=1770afeb591ad466ead513191d5b9e07&chksm=bd34346c8a43bd7a8a201dae8b245dbf6c1213c2a3534346f2f4e14b109eb3a2f1348ad1ae3e#rd"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 394
+    },
+    {
+      "id": "product-21",
+      "name": "班主任学年工作指南",
+      "category": "手册系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "系统解决班级管理、家校共育、突发事件等高频难题；提供《工作画布》+标准作业程序（如开学清单、主题班会方案）；全国名班主任实操视频+月度复盘模型，系统规划班主任工作，用高效减负。",
+      "audience": "班主任教师",
+      "value": "系统解决班级管理、家校共育、突发事件等高频难题；提供《工作画布》+标准作业程序（如开学清单、主题班会方案）；全国名班主任实操视频+月度复盘模型，系统规划班主任工作，用高效减负。",
+      "promotionLinks": [
+        {
+          "title": "系统解决班级管理、家校共育、突发事件等高频难题；提供《工作画布》+标准作业程序（如开学清单、主题班会方案）；全国名班主任实操视频+月度复盘模型，系统规划班主任工作，用高效减负。",
+          "url": "https://mp.weixin.qq.com/s/oOXzibMLL9nTiS9Qt-VkVA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 408
+    },
+    {
+      "id": "product-22",
+      "name": "新任教师素养进阶手册",
+      "category": "手册系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "以“职业规划+必备技能+进阶工具”三维体系，破解新手教师迷茫；提供大单元教学、作业设计、学情分析等实用模板；线上课程+学习笔记模板，实现“学—用—思”闭环。",
+      "audience": "新教师",
+      "value": "以“职业规划+必备技能+进阶工具”三维体系，破解新手教师迷茫；提供大单元教学、作业设计、学情分析等实用模板；线上课程+学习笔记模板，实现“学—用—思”闭环。",
+      "promotionLinks": [
+        {
+          "title": "以“职业规划+必备技能+进阶工具”三维体系，破解新手教师迷茫；提供大单元教学、作业设计、学情分析等实用模板；线上课程+学习笔记模板，实现“学—用—思”闭环。",
+          "url": "https://mp.weixin.qq.com/s/NeHuEq2SMR6LBpJt_Sa7sg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 414
+    },
+    {
+      "id": "product-23",
+      "name": "骨干教师卓越发展手册",
+      "category": "手册系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "直击骨干教师二次成长瓶颈：教学创新、教研转型、科研转化、学生发展等；提供100+工具模板（如教育主张画布、课题开题模版、跨学科图谱）；全国名师视频课程，助力从“教书匠”迈向“研究者+引领者”。",
+      "audience": "骨干教师",
+      "value": "直击骨干教师二次成长瓶颈：教学创新、教研转型、科研转化、学生发展等；提供100+工具模板（如教育主张画布、课题开题模版、跨学科图谱）；全国名师视频课程，助力从“教书匠”迈向“研究者+引领者”。",
+      "promotionLinks": [
+        {
+          "title": "直击骨干教师二次成长瓶颈：教学创新、教研转型、科研转化、学生发展等；提供100+工具模板（如教育主张画布、课题开题模版、跨学科图谱）；全国名师视频课程，助力从“教书匠”迈向“研究者+引领者”。",
+          "url": "https://mp.weixin.qq.com/s/rzyRyBx5s1baJ9mZCaLHVQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 420
+    },
+    {
+      "id": "product-24",
+      "name": "备课本",
+      "category": "笔记本系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "新教师通往高质量课堂的备课脚手架",
+      "audience": "教师",
+      "value": "教师必须了解教学系统背后的逻辑所在，让真实有效的学习发生，真正帮助学生抵达学习目标。强调课堂教学从“教”走向“学”的转变，从课堂教学系统逻辑与备课组织架构入手，助力新教师轻松度过职初教学期。",
+      "promotionLinks": [
+        {
+          "title": "AI时代下，纸质备课仍是新教师专业成长的“必修课”",
+          "url": "https://mp.weixin.qq.com/s/JQtgIEFGBruMP9M0t0EQYw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 426
+    },
+    {
+      "id": "product-25",
+      "name": "听课笔记",
+      "category": "笔记本系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "结构化听评课，精准把控教学每一个环节。",
+      "audience": "教师",
+      "value": "从“课堂导入——过程与方法——达标反馈——课堂小结”形成完整的结构化听课框架，帮助听课者能够洞悉课堂节奏的起伏，教学环节的衔接，以及学生参与的活跃度和深度，从而实现对教学质量的精准把控， 轻松发现一堂课的内在逻辑与系统建构。",
+      "promotionLinks": [
+        {
+          "title": "新课程方案背景下教师们究竟该如何听评课?",
+          "url": "https://mp.weixin.qq.com/s/YLiMdO5sfjByyGD2bUdkgQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 435
+    },
+    {
+      "id": "product-26",
+      "name": "学生成长阅读笔记本",
+      "category": "笔记本系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "通往阅读与现实问题之间的媒介。",
+      "audience": "学生",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "概念一提出，就被各大学校叫好的“阅读新方法”",
+          "url": "https://mp.weixin.qq.com/s/gk9RPWQ2AZ4mZBwqadJbQg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 444
+    },
+    {
+      "id": "product-27",
+      "name": "“教育森林”随手本",
+      "category": "笔记本系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "教育，本就是一片没有边界的森林。 “我们都在一座超出想象的共同森林里，成为一个敞开的整体”。每一棵树都有自己生长的方向，每一片叶子都藏着独特的光，教育者便在这差异中寻找共鸣，在开拓中见证生命的拔节。 「“教育森林”随手本」，便是这片森林里一处可随身携带的思想驿站。",
+      "audience": "教师",
+      "value": "灵活、小巧，方便随行。 开会记录、工作计划、日记手账......多场景适用。",
+      "promotionLinks": [
+        {
+          "title": "让教育在纸上发芽：专属教育人的2026教学灵感生长笔记",
+          "url": "https://mp.weixin.qq.com/s/reGtzr_hcSzG-XUk_b-2Gg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 453
+    },
+    {
+      "id": "product-28",
+      "name": "教育的精神向度笔记本",
+      "category": "笔记本系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "“大先生\"并不仅存于过去的时空或未来的想象，他们既是顺应时代潮流、培养时代新人的当代教师，更是历史长河中那些超越时代的名师，他们因为不同的历史贡献、行为风范而伟大，也因为相同的热爱而伟大。 “教育的精神向度笔记本”用53位大先生, 53个精神向度，共同构筑21世纪中国教师的精神框架，并汇成一道道行动坐标，仿若夜空明月，在崎岖的教育道路洒下光的印记。以此，向您崇高的职业坚守和岁月芳华，致敬!",
+      "audience": "校长、教师",
+      "value": "",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 465
+    },
+    {
+      "id": "product-29",
+      "name": "学生美好手账",
+      "category": "笔记本系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "用100件四季美好小事，探索那些看起来高深的德育美育问题，帮助孩子留意身边看似普通的人和事，以发现的眼光，勇敢的行动，积极的建造，建立与自然的连接，热爱真实的生活。",
+      "audience": "学生",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "",
+          "url": "https://mp.weixin.qq.com/s/45jMOZffUErQx1F_8OgkZw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 471
+    },
+    {
+      "id": "product-30",
+      "name": "学校全角色地图",
+      "category": "教育地图系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "匹配到校长、中层、一线教师相应业务或职责，以前瞻、系统的思维图谱，助力学校管理效能的次序落地，教育角色的环环激活。",
+      "audience": "学校全角色",
+      "value": "1、支撑感：覆盖学校全角色。全角色地图共有11张，包含校长使用的2张，中层7张，和针对一线教师开发的2张。当每个角色都有专属的思维图谱支撑，学校各项工作的开展便更能形成合力。 2、系统性：以全局思考为基。在设计全角色地图时，我们不仅以更多元的视角，去思考相应角色的职能、定位、方法策略；更站在学校高质量发展的高度，去响应未来学校映射到当下的具体需求。 3、凝练性：工具模型高度提炼。我们将智库各个研究团队的专业研究成果经过模型提炼和系统整合，并以最直观的方式呈现出来，让教育人看见地图就能有思路、有想法、能迁移。",
+      "promotionLinks": [
+        {
+          "title": "AI不是学校进化的答案，以正确的系统，实现结构化的提取才是",
+          "url": "https://mp.weixin.qq.com/s/0gNo43CbZxYvLaEC4B6v2Q"
+        },
+        {
+          "title": "学校全角色地图：让校长有思路、中层有方法、教师有路径",
+          "url": "https://mp.weixin.qq.com/s/WJN6ht_WpNUr-YQEkgh9kw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 479
+    },
+    {
+      "id": "product-31",
+      "name": "学校治理地图",
+      "category": "教育地图系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "将学校治理的关键元素结构化呈列，浏览地图，管理者便能系统、迅速、便捷地捕捉到学校发展进程中，方方面面的工作要点。",
+      "audience": "学校管理者",
+      "value": "1、一张 “学校治理全景线路图”：地图把学校治理拆成“文化与建设、团队与管理、教育与教学、安全与保障”四大领域，抓住 24 个核心内容。 2、四个 “发展关卡” 的破局密钥：理念关卡，怎么把立德树人变成校本化育人目标；模式关卡，怎么找到适合本校学情的课程模式，不盲目照搬名校；团队关卡，理念落地时，怎么让教师从单打独斗变成协同作战；评价关卡，怎么构建五育融合的评价体系，跳出唯分数的怪圈。 3、100 + 重要事项的认知图示：整个地图包含 11 个体系、11 个流程、41 个要点、12 个原则、13 个模型、24 条行动建议，共 112 项内容。靠着这 112 条 实战指南，学校管理者能更轻松地攻克治理过程中的难点。",
+      "promotionLinks": [
+        {
+          "title": "会议室的墙上就缺它！一张图让全校拧成一股绳",
+          "url": "https://mp.weixin.qq.com/s/PqmiQr4zYZqMvIeBTxvOQw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 494
+    },
+    {
+      "id": "product-32",
+      "name": "班主任带班地图",
+      "category": "教育地图系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "围绕班级动力系统打造为核心，帮助班主任升维认知、启动行为。",
+      "audience": "班主任",
+      "value": "包含”主任务、行事历、常难题、自我进阶“四大内容板块。其中自我进阶板块全新升级\"AI时代班主任的能力素养\"模块。 1、时间维度：全年工作行事历 2、专业深度：聚焦班级动力系统",
+      "promotionLinks": [
+        {
+          "title": "班主任带班地图：解锁带班与成长的全新思路",
+          "url": "https://mp.weixin.qq.com/s/lmzKMnRsAhiEIyd4QhMIcA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 506
+    },
+    {
+      "id": "product-33",
+      "name": "家长认知地图",
+      "category": "教育地图系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "这是一份可以贴在自家墙上的“地图”。在这张地图里，我们可以看到孩子的成长曲线，标注着成长中的很多关键要素；通过地图，我们可以了解这些关键要素的特征和发展规律。我们还可以看到孩子在学校学习、成长的样态，可以看到学校教育开展实施的整个生态，可以看到孩子入学到毕业的全生命周期。这是一张将孩子的成长过程和未来发展展现得一目了然的地图。",
+      "audience": "",
+      "value": "10大关键要素，解锁育儿底层逻辑 18年成长曲线，精准把握成长节奏 6个年级行为表现，洞悉孩子心理变化",
+      "promotionLinks": [
+        {
+          "title": "养育一个孩子，需要一个家庭的共识",
+          "url": "https://mp.weixin.qq.com/s/g7RF2zdESxPowTHmI6ctQg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 520
+    },
+    {
+      "id": "product-34",
+      "name": "经典阅读玩书系列",
+      "category": "智库自主研发课程系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "一套覆盖K12全学段、以大师经典为载体、以素养发展为导向、以玩创融合为路径的阅读成长课程；让每本书都有不同的玩法，孩子将化身阅读 “玩家”，在探索中与经典相遇，让阅读变得美好有趣，让学习有光。",
+      "audience": "中小学师生",
+      "value": "一套覆盖K12全学段、以大师经典为载体、以素养发展为导向、以玩创融合为路径的阅读成长课程；让每本书都有不同的玩法，孩子将化身阅读 “玩家”，在探索中与经典相遇，让阅读变得美好有趣，让学习有光。",
+      "promotionLinks": [
+        {
+          "title": "一套覆盖K12全学段、以大师经典为载体、以素养发展为导向、以玩创融合为路径的阅读成长课程；让每本书都有不同的玩法，孩子将化身阅读 “玩家”，在探索中与经典相遇，让阅读变得美好有趣，让学习有光。",
+          "url": "https://mp.weixin.qq.com/s/8gUDjqxUHU0lm9-qouqYOg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 535
+    },
+    {
+      "id": "product-35",
+      "name": "蒲公英形象胸针",
+      "category": "文创系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "这枚胸针选用蒲公英的意象，传递了一种教育精神与理想——随风撒种，落地生根。随风撒种，种在每一位教育人心上；落地生根，在这广阔天地，发芽、开花、再次飞扬......如此循环，这是蒲公英的使命，也是教育的意义，更是这枚胸针的寓意。",
+      "audience": "教师",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "蒲公英胸针：教育人的形象标符",
+          "url": "https://mp.weixin.qq.com/s/UpDpY3YHVOCiR9JCRtX0Zg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 542
+    },
+    {
+      "id": "product-36",
+      "name": "班级图书角",
+      "category": "智库轻量化阅读书架",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "一套赋予学生多方面成长的阅读动力系统，用成长中的真实问题激发学生阅读动机，用精细化流程减轻教师运行负担，用多样化方案赋能学校素养活动，用轮换机制实现班与班间的联动，最大限度的使用图书学习资源",
+      "audience": "中小学师生",
+      "value": "一套赋予学生多方面成长的阅读动力系统，用成长中的真实问题激发学生阅读动机，用精细化流程减轻教师运行负担，用多样化方案赋能学校素养活动，用轮换机制实现班与班间的联动，最大限度的使用图书学习资源",
+      "promotionLinks": [
+        {
+          "title": "一套赋予学生多方面成长的阅读动力系统，用成长中的真实问题激发学生阅读动机，用精细化流程减轻教师运行负担，用多样化方案赋能学校素养活动，用轮换机制实现班与班间的联动，最大限度的使用图书学习资源",
+          "url": "https://mp.weixin.qq.com/s/7GT7VlZ6gSQt1lnR1LW-pw"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 551
+    },
+    {
+      "id": "product-37",
+      "name": "班主任线上研修营",
+      "category": "线上系列微课",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "40个最值得班主任关注的核心问题，论是班级运营、班本课程、还是多元沟通，都能在这里找到属于您的答案。",
+      "audience": "班主任",
+      "value": "40个最值得班主任关注的核心问题，论是班级运营、班本课程、还是多元沟通，都能在这里找到属于您的答案。",
+      "promotionLinks": [
+        {
+          "title": "40个最值得班主任关注的核心问题，论是班级运营、班本课程、还是多元沟通，都能在这里找到属于您的答案。",
+          "url": "https://mp.weixin.qq.com/s/qmabxMDrBrRU-avMNIe34A"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 558
+    },
+    {
+      "id": "product-38",
+      "name": "教师心理能量提升研修营",
+      "category": "线上系列微课",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "学校心理健康教师、新入职教师、职业倦怠期教师、特殊教育教师、班主任、德育工作者、学校管理者。 聚焦教育体系中心理健康层面的专业知识，串联教师能量、学生成长、家校共育几大层面，以高浓度微课的形式呈现3大模块、20节直击心理赋能的线上课程，为教育者打造可即时迁移的心理赋能工具包。",
+      "audience": "学校心理健康教师、新入职教师、职业倦怠期教师、特殊教育教师、班主任、德育工作者、学校管理者。",
+      "value": "聚焦教育体系中心理健康层面的专业知识，串联教师能量、学生成长、家校共育几大层面，以高浓度微课的形式呈现3大模块、20节直击心理赋能的线上课程，为教育者打造可即时迁移的心理赋能工具包。",
+      "promotionLinks": [
+        {
+          "title": "聚焦教育体系中心理健康层面的专业知识，串联教师能量、学生成长、家校共育几大层面，以高浓度微课的形式呈现3大模块、20节直击心理赋能的线上课程，为教育者打造可即时迁移的心理赋能工具包。",
+          "url": "https://mp.weixin.qq.com/s/Iir0ZUIMhVPebsHvgA833w"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 564
+    },
+    {
+      "id": "product-39",
+      "name": "职初教师专业进阶",
+      "category": "线上系列微课",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "五大维度构建“全周期成长地图”，从“站稳讲台\"的教学硬实力，到“搞定关系”的沟通软实力，再到“职业规划\"的长远眼，一张图绘尽教师成长全路径。",
+      "audience": "教师",
+      "value": "五大维度构建“全周期成长地图”，从“站稳讲台\"的教学硬实力，到“搞定关系”的沟通软实力，再到“职业规划\"的长远眼，一张图绘尽教师成长全路径。",
+      "promotionLinks": [
+        {
+          "title": "五大维度构建“全周期成长地图”，从“站稳讲台\"的教学硬实力，到“搞定关系”的沟通软实力，再到“职业规划\"的长远眼，一张图绘尽教师成长全路径。",
+          "url": "https://mp.weixin.qq.com/s/p3mx_4EoWH4saKIePiUT6w"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 571
+    },
+    {
+      "id": "product-40",
+      "name": "骨干教师线上课",
+      "category": "线上系列微课",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "你有一套自己的教学“绝招”，但别人问你“你的教育主张是什么”时，你一时说不清楚； 你参与的教研活动不少，但大多是“听一节课、评几句话、领一张证书”，很难真正点燃团队的智慧；",
+      "audience": "骨干教师",
+      "value": "你有一套自己的教学“绝招”，但别人问你“你的教育主张是什么”时，你一时说不清楚； 你参与的教研活动不少，但大多是“听一节课、评几句话、领一张证书”，很难真正点燃团队的智慧； 你管理课堂游刃有余，但面对“新课标、新教材、AI工具”的冲击，感觉原来的经验正在“贬值”；",
+      "promotionLinks": [
+        {
+          "title": "不再只等学生出了问题再去“救火”，而是提前做好生涯唤醒、心理护航，成为学生成长中的“稳定锚点”——这就是共情守护力。",
+          "url": "https://mp.weixin.qq.com/s/h4xpPnQxe7OnBu2CpIVH2g"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 577
+    },
+    {
+      "id": "product-41",
+      "name": "中国教育创新年会系列U盘",
+      "category": "系列会议U盘",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "",
+      "audience": "学校管理者",
+      "value": "一套直面当下学校问题的资源工具包，15个专业系统模块，详解优质学校建设路径，一份通往优质学校样态的多维路线图，80余场专家报告，深研学校转型困境与可能。",
+      "promotionLinks": [
+        {
+          "title": "解决问题：一套直面当下学校问题的资源工具包，15个专业系统模块，详解优质学校建设路径，一份通往优质学校样态的多维路线图，80余场专家报告，深研学校转型困境与可能。",
+          "url": "https://mp.weixin.qq.com/s/fNdJNRVMQmmMYlFda5bKCQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 595
+    },
+    {
+      "id": "product-42",
+      "name": "小学课程周系列U盘",
+      "category": "系列会议U盘",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "",
+      "audience": "学科教师",
+      "value": "36节“AI+”全学科实录视频，完整还原专家拆解与名师示范。你可以像在现场一样，看到AI是如何在具体环节中解决“备课难、互动少”等真实问题的。",
+      "promotionLinks": [
+        {
+          "title": "解决问题：36节“AI+”全学科实录视频，完整还原专家拆解与名师示范。你可以像在现场一样，看到AI是如何在具体环节中解决“备课难、互动少”等真实问题的。",
+          "url": "https://mp.weixin.qq.com/s/iRgWyzPFyVcuVnARBp-aeQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 600
+    },
+    {
+      "id": "product-43",
+      "name": "中层领导力峰会系列U盘",
+      "category": "系列会议U盘",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "",
+      "audience": "学校管理者",
+      "value": "是国内学校管理领域持续深耕的重要品牌会议，每年线下参会规模约700-1000人，汇聚全国一线中小学校长、中层管理干部及教育研究者，共同探讨学校治理变革与中层力量激活的前沿命题。",
+      "promotionLinks": [
+        {
+          "title": "解决问题：是国内学校管理领域持续深耕的重要品牌会议，每年线下参会规模约700-1000人，汇聚全国一线中小学校长、中层管理干部及教育研究者，共同探讨学校治理变革与中层力量激活的前沿命题。",
+          "url": "https://mp.weixin.qq.com/s/YDinhX9eFYi3pJvmhXv88w"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 605
+    },
+    {
+      "id": "product-44",
+      "name": "一班一世界主题峰会系列U盘",
+      "category": "系列会议U盘",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "",
+      "audience": "班主任",
+      "value": "是国内班主任领域持续十年的重要品牌会议，每年线下参会规模约700-1000人，汇聚全国一线班主任、教师、德育专家与学校管理者，共同探讨带班育人工作的前沿命题。",
+      "promotionLinks": [
+        {
+          "title": "解决问题：是国内班主任领域持续十年的重要品牌会议，每年线下参会规模约700-1000人，汇聚全国一线班主任、教师、德育专家与学校管理者，共同探讨带班育人工作的前沿命题。",
+          "url": "https://mp.weixin.qq.com/s/2vPZDMWn-tUyfROsBTCkUA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 610
+    },
+    {
+      "id": "product-45",
+      "name": "2026未来学校智能峰会U盘",
+      "category": "系列会议U盘",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "2026未来学校智能峰会，以“教育+AI”技术选择与系统搭建为主题，聚焦“今天的教育，需要怎样的AI？今天的AI，能够支持怎样的教育？”这两个核心问题，汇聚教育研究者、一线管理者与前沿技术力量，系统探讨“教育+AI”背景下的技术选择路径与学校级系统搭建方案。U盘完整记录峰会内容。",
+      "audience": "书记校长、中层管理、教育技术研究者、学校AI项目组",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "AI重塑教育，学校如何选对技术搭好系统｜未来学校智能峰会U盘预售",
+          "url": "https://mp.weixin.qq.com/s/ND2o0L09nITtJCjrk9QNQQ"
+        },
+        {
+          "title": "当AI真正进入学校系统，这是教育界的一次集体回答 | 智能峰会U盘",
+          "url": "https://mp.weixin.qq.com/s/R66jEAgqoA5piUtRWKs9Kg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 615
+    },
+    {
+      "id": "product-46",
+      "name": "深度陪伴服务",
+      "category": "学校服务",
+      "subgroup": "战略服务",
+      "level": "子产品或具体服务",
+      "description": "凝聚十余年基础教育研究与创新实践，在战略引领、课程重构、空间赋能、技术融合、教师成长、影响力传播、生态共建等学校建设全维度开展研究、设计与服务，深度陪伴学校走通每一个具体精微的关键环节，共同找到通往未来的入口，并持续在自我进化的道路上不断生长。让理想的教育，成为看得见的不同风景。",
+      "audience": "",
+      "value": "战略顶层设计、课程体系建设、未来学习空间打造、AI赋能教育生态、教师新型专业成长、构建新阅读生态、共建教育研修共同体、“深度目击”学校变革系列出版、中国教育创新年会理事会 服务周期 5-6 年（长周期战略合作 + 分阶段落地迭代）",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 628
+    },
+    {
+      "id": "product-47",
+      "name": "未来学习中心",
+      "category": "学校服务",
+      "subgroup": "战略服务",
+      "level": "子产品或具体服务",
+      "description": "",
+      "audience": "",
+      "value": "",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 636
+    },
+    {
+      "id": "product-48",
+      "name": "蒲公英教育智库k12学校一体化专业支持平台",
+      "category": "学校服务",
+      "subgroup": "战略服务",
+      "level": "子产品或具体服务",
+      "description": "蒲公英教育智库k12学校一体化专业支持平台，是面向k12学校打造的，集学习 · 管理 · 产品 · 服务 · 智能于一体的学校专业支持平台。平台致力于打破教育服务长期存在的“割裂、分散、低协同”状态，为学校提供持续进化的数字化底座与智能支持体系，让专业支持从单点服务走向系统协同。",
+      "audience": "学校全角色",
+      "value": "学校全角色学习、管理要素升维、学校产品支持、校级AI助手",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 638
+    },
+    {
+      "id": "product-49",
+      "name": "未来学校一体化场景设计",
+      "category": "学校服务",
+      "subgroup": "DETT教育设计",
+      "level": "子产品或具体服务",
+      "description": "学校建设是一个多维性的工作，它包括校园空间环境建设、办学内涵机制建设、教师成长系统建设、学校治理能力建设，而这四项之间也并非独立存在。修一个能用的房子很简单，但这个房子里面的人怎么学习、怎么交流、怎么成长、怎么管理、怎么生活等等，才是学校设计的重点。从一体化建设的宏观维度出发，聚焦真实的使用和面向未来的可能，为学校提供一站式综合解决方案。",
+      "audience": "校长书记、区域建设管理者",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "",
+          "url": "https://mp.weixin.qq.com/s/5-0x23vEMUaSlSrOSfkNTA"
+        },
+        {
+          "title": "",
+          "url": "https://mp.weixin.qq.com/s/6Gbfb5R54ZJxomgBkOPraQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 646
+    },
+    {
+      "id": "product-50",
+      "name": "空间环境整体设计",
+      "category": "学校服务",
+      "subgroup": "DETT教育设计",
+      "level": "子产品或具体服务",
+      "description": "案例1：杭州新教育实验中学设计案例解析 以打造未来学校为愿景，杭州新教育实验中学把场景赋能作为高水平未来教育的一个“专业入口”。新时代学校教育对空间场景的要求大大提高，未来学校一定是能为学生提供足够的场景空间、场景内容、场景技术、场景美学、场景关系，等待想象力及学习内驱力随时被触发。",
+      "audience": "校长书记、区域建设管理者",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "",
+          "url": "https://mp.weixin.qq.com/s/6LkwztgI0Ux19ShVs2qevQ"
+        },
+        {
+          "title": "",
+          "url": "https://mp.weixin.qq.com/s/rJ0RJgzhb6zblUbQG0pYdg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 656
+    },
+    {
+      "id": "product-51",
+      "name": "空间、品牌文化设计",
+      "category": "学校服务",
+      "subgroup": "DETT教育设计",
+      "level": "子产品或具体服务",
+      "description": "在DETT的日常接洽中，不少学校有新空间设计或改造需求，却苦于经费有限，无从入手。我们梳理了几处重要的校园设计点，把教育经费用到最关键处，最大程度地提高使用效益，建设发展理想校园。",
+      "audience": "校长书记、区域建设管理者",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "当经费有限时，推荐学校设计这6个校园关键处",
+          "url": "https://mp.weixin.qq.com/s/0HDsfbnaJ6xkA1MrpDxGQg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 668
+    },
+    {
+      "id": "product-52",
+      "name": "教育人形象美学摄影",
+      "category": "学校服务",
+      "subgroup": "DETT教育设计",
+      "level": "子产品或具体服务",
+      "description": "一位葆有审美追求、活得舒展而富有质感的教师，本身就是一部生动的美育教材。当这样一群教师站在一起，便构成了一所学校最动人、最不可复制的文化风景——这正是常常被低估的学校核心竞争力。DETT教育人形象美学，用镜头为学校和教师打造专属名片，通过专业的美学服务，让美成为教师职业尊严的视觉表达。",
+      "audience": "校长、教师",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "教师的“精气神”，是一所学校的核心竞争力丨教师形象美学暑期提升计划",
+          "url": "https://mp.weixin.qq.com/s/0pudSmW1cVXDFBaTyAYWIA"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 676
+    },
+    {
+      "id": "product-53",
+      "name": "乐高森林课程联盟",
+      "category": "学校服务",
+      "subgroup": "内涵建设研究院",
+      "level": "子产品或具体服务",
+      "description": "以真实任务激发探索的渴望，以 AI 学伴支持个性化的生长，以主题社区连接真实的世界，推动从“学为中心”向“创为中心”的系统转型，构建以真实任务驱动、融合 AI 学伴与主题学习社区场景的新型学习生态。 我们将为学校的课程变革提供任务资源与实施指导，从课程目标体系建构、课程资源开发，到教师系统培训、 成果共建共享，支持每一步扎实落地。",
+      "audience": "有课程与教学转型需求的学校",
+      "value": "",
+      "promotionLinks": [],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 685
+    },
+    {
+      "id": "product-54",
+      "name": "校园全场景伴手礼定制",
+      "category": "学校服务",
+      "subgroup": "学生发展研究院",
+      "level": "子产品或具体服务",
+      "description": "我们懂教育、懂文化、懂场景——深入解读办学理念与视觉元素，提供从主题策划、视觉设计、文案创意到模块化选品、生产物流的一站式解决方案。覆盖开学、毕业、教师节、周年庆、荣休、新生入学等全年节点，围绕学校品牌、教师关怀、学生成长三大主线，支持深度定制或模块化组合。您只需提出场景、对象、预算，我们全程落地。让每一份礼物成为学校品牌与教育温度的延伸。",
+      "audience": "集团、学校",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "校园全场景伴手礼解决方案:为学校定制一枚行走的文化符号",
+          "url": "https://mp.weixin.qq.com/s/mkVZaaB9r8l1ZoMv5Y89_w"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 692
+    },
+    {
+      "id": "product-55",
+      "name": "校园全场景阅读",
+      "category": "学校服务",
+      "subgroup": "学生发展研究院",
+      "level": "子产品或具体服务",
+      "description": "项目围绕全场景阅读落地，一方面深耕家校素养阅读研究，搭建分级分类的优质图书资源体系，面向校长、师生与家长配齐高品质读物，解决阅读 “读什么” 的选材问题；另一方面研发兼具引领性、挑战性与趣味性的阅读课程、产品及特色活动，立足学生成长需求激发阅读内驱力，破解 “怎么读” 的实操难题；同时依托专业化校情诊断，出具专属校园阅读生态分析报告，配套师资培训、图书馆空间与课程顶层规划等落地服务，系统性搭建可持续的校园阅读生态环境。",
+      "audience": "学校",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "校园全场景阅读：学习者如何从“知道”走向“做到”？",
+          "url": "https://mp.weixin.qq.com/s/V1zXFbnh25R0Yk746vygsQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 699
+    },
+    {
+      "id": "product-56",
+      "name": "区域/学校定制培训",
+      "category": "学校服务",
+      "subgroup": "培训事业部",
+      "level": "子产品或具体服务",
+      "description": "系统地、持续地规划区域各角色的专业成长，将区域新教师、学科教师、班主任、中层、校长等角色的专业素养分为基础、发展、稳定、专家阶段四个阶段，每个阶段的进阶设计相应的评价维度与培训课程，最终指向教育人的终身成长。 培训对象：",
+      "audience": "◎职初教师专业胜任 ◎骨干教师二次成长 ◎ 学科名师孵化培养",
+      "value": "◎方案系统化——规划 ◎课程定制化——模式 ◎成长陪伴式——组织",
+      "promotionLinks": [
+        {
+          "title": "",
+          "url": "https://mp.weixin.qq.com/s/oF4OSL8gDn3DOQBitfI06A"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 708
+    },
+    {
+      "id": "product-57",
+      "name": "学校中层领导力主题峰会",
+      "category": "会议系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "会议主题： 学校新治理蓝图下的中层行动",
+      "audience": "中小学校长、副校长、更层级各部门中层干部级相关研究人员",
+      "value": "",
+      "promotionLinks": [
+        {
+          "title": "学校新治理蓝图下的中层行动——2026学校中层领导力主题峰会8月北京启幕",
+          "url": "https://mp.weixin.qq.com/s/6XkQHPp5o07Olk0fe11BGg"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 766
+    },
+    {
+      "id": "product-58",
+      "name": "基地校",
+      "category": "会议系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "“中国教育创新年会区域示范学习基地校·团队跟岗实践项目”，是蒲公英教育智库基于中国教育创新年会长期沉淀推出的学校变革深度学习服务。 项目组织学校核心团队走进全国区域示范基地校，在真实校园日常中进行现场观摩、导师对话、任务挑战、结构化复盘和方案共创，帮助学校不只“看见先进经验”，而是带着本校真实问题出发，理解标杆学校系统变革背后的底层逻辑，并最终形成适合自身校情的改进行动方案。",
+      "audience": "主要面向全国中小学中正在推动学校变革的“关键少数”： 校级领导：校长、副校长、书记等，需要判断学校发展方向和变革路径的人。 中层干部：教务、德育、课程、教研、教师发展、项目负责人等，需要把战略转成具体行动的人。",
+      "value": "学习方式错位：传统培训提供的是“标准化的普适性答案”，而每所学校面临的是“高度情境化的问题”——听过前沿理念、看过成功案例，回到自己校园却难以落地，真实行动步履维艰。 从“看见”到“做到”的断层：变革的宏观架构容易描摹，但持续深化难上加难。教育者缺乏将外部经验转化为校本行动的系统路径与支架。 “关键少数”群体的成长缺失：校级领导、中层管理者、骨干教师等推动变革的核心力量，其困惑往往“系统而精微、需求高度个性化”，难以被传统培训覆盖，缺少针对性赋能。",
+      "promotionLinks": [
+        {
+          "title": "中国教育创新年会“区域示范学习基地校”跟岗项目正式启动",
+          "url": "https://mp.weixin.qq.com/s/q58aucKltux4w8DrPOOAug"
+        },
+        {
+          "title": "北京十一等24所基地校跟岗启动，集结关键少数，深潜变革一线",
+          "url": "https://mp.weixin.qq.com/s/liGrrYzTccquxa_AtC2gLg"
+        },
+        {
+          "title": "春季招募：“中国教育创新年会区域示范学习基地校”跟岗实践 | 头条",
+          "url": "https://mp.weixin.qq.com/s/5Q-mWPJ8rlFOCsEAujE4ow"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 778
+    },
+    {
+      "id": "product-59",
+      "name": "骨干教师研修营",
+      "category": "会议系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "围绕“课堂重塑—科学评价—成果转化”三大核心模块，手把手教骨干教师重构教学路径，实现真正的“教学评一体化”。同步引入数智工具，提升教研效能将前沿AI技术作为“超级助教”深度融入备课、命题与科研全过程，大幅降低重复劳动，助力教师轻装上阵，高效产出。 亮点： 1.带领教师跳出单篇课文的局限，借助结构化思维梳理课标与教材，重新设计连贯的单元学习路径，让每一堂课都有清晰的导航图。",
+      "audience": "有进步意愿，愿意更新教学设计，并转化为论文、课题成果的骨干教师。",
+      "value": "1.带领教师跳出单篇课文的局限，借助结构化思维梳理课标与教材，重新设计连贯的单元学习路径，让每一堂课都有清晰的导航图。 2.学习开发可测、可视的评价量规，并现场实操命制高质量的情境测试题与分层作业，让评价真正成为推动学习的引擎。 3.帮助教师筛选具有时代价值和推广意义的切入点，让教研选题不再靠拍脑袋，而是有理有据。",
+      "promotionLinks": [
+        {
+          "title": "教了十几年还在原地打转？骨干教师缺的不是努力，而是一套系统方法",
+          "url": "https://mp.weixin.qq.com/s/xUntvwmwuLtJzFFKhlyysQ"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 803
+    },
+    {
+      "id": "product-60",
+      "name": "教研领导力研修营",
+      "category": "会议系列",
+      "subgroup": "",
+      "level": "主产品",
+      "description": "我们基于对上百位教研领军者的深度调研与前序研修营的反复打磨，设计出一套 “以您为中心”的沉浸式成长路径。 在这里，我们将共同完成一次思维的深度转型：从“教学研究的参与者”转变为“专业成长的策划师与赋能者”。 亮点：",
+      "audience": "教研组长、课程研究组长。",
+      "value": "1.老师能带走的不只是“理念”更是“能行动的方案”。 2.在三天里，您将亲历“诊断-设计-引领”的完整闭环。 3.这不止是一次工作坊，更是一次高密度、沉浸式的“教研实战推演”。",
+      "promotionLinks": [
+        {
+          "title": "教研领导力研修营｜3 天磨出全年教研主线，让学科组教研不再零散",
+          "url": "https://mp.weixin.qq.com/s/mwG26OLwPEVvCgdvjWlj3w"
+        }
+      ],
+      "source": "智库教育产品梳理7.14.docx",
+      "sourceDate": "2026-07-14",
+      "informationStatus": "原始材料",
+      "sourceParagraph": 816
+    }
+  ]
+}

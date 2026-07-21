@@ -1,0 +1,22 @@
+{
+  "name": "pgy-promotion-workbench",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "build:standalone": "npm run build && node scripts/build-standalone.mjs",
+    "test:standalone": "node --test scripts/standalone.test.mjs",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.74.3",
+    "@fluentui/react-icons": "^2.0.333",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "vite": "^8.1.4"
+  }
+}
